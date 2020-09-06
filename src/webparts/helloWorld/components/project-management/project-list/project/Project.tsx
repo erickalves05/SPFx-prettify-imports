@@ -17,7 +17,7 @@ import { Api } from '@src/services';
 
 import User from '@hello-world-components/user';
 import GreenButton from '@hello-world-components/ui/green-button';
-import Grid from '@components/grid';
+import Grid from '@components/grid/Grid';
 
 export default class Project extends React.Component<{}, {}> {
   public render(): React.ReactElement<{}> {
@@ -27,7 +27,7 @@ export default class Project extends React.Component<{}, {}> {
 
     return (
       <div>
-        Project
+        Project2
         <User />
         <Grid />
         <GreenButton />

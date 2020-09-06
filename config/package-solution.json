@@ -4,7 +4,14 @@
     "name": "sp-fx-prettify-imports-client-side-solution",
     "id": "ec527664-45a5-4c17-8c1b-15f20fdec44d",
     "version": "1.0.0.0",
-    "includeClientSideAssets": true
+    "includeClientSideAssets": true,
+    "developer": {
+      "name": "Contoso",
+      "privacyUrl": "https://contoso.com/privacy",
+      "termsOfUseUrl": "https://contoso.com/terms-of-use",
+      "websiteUrl": "https://contoso.com/my-app",
+      "mpnId": "000000"
+    }
   },
   "paths": {
     "zippedPackage": "solution/sp-fx-prettify-imports.sppkg"
